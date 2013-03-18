@@ -1,0 +1,8 @@
+E:\HANSVITS\PROJECTS\Sandbox\consoleBox\bin\Debug\consoleBox.exe.config
+E:\HANSVITS\PROJECTS\Sandbox\consoleBox\bin\Debug\consoleBox.exe
+E:\HANSVITS\PROJECTS\Sandbox\consoleBox\bin\Debug\consoleBox.pdb
+E:\HANSVITS\PROJECTS\Sandbox\consoleBox\bin\Debug\EntityFramework.dll
+E:\HANSVITS\PROJECTS\Sandbox\consoleBox\bin\Debug\EntityFramework.xml
+E:\HANSVITS\PROJECTS\Sandbox\consoleBox\obj\Debug\consoleBox.csprojResolveAssemblyReference.cache
+E:\HANSVITS\PROJECTS\Sandbox\consoleBox\obj\Debug\consoleBox.exe
+E:\HANSVITS\PROJECTS\Sandbox\consoleBox\obj\Debug\consoleBox.pdb

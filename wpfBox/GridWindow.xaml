@@ -1,0 +1,30 @@
+﻿<Window x:Class="wpfBox.GridWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GridWindow" Height="350" Width="525">
+    <Grid x:Name="LayoutRoot" Background="#FFD48787" Width="500" Height="300">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <TextBlock Background="#FF8262EC" Text="What the heck I am doing this for ..." Grid.ColumnSpan="4" FontSize="24" FontWeight="Bold" />
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <RadioButton Content="Male" Margin="2, 5" IsChecked="True" GroupName="Gender" />
+            <RadioButton Content="Female" Margin="2, 5" GroupName="Gender" />
+            <RadioButton Content="Other" Margin="2, 5" GroupName="Gender" />
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="2">
+            <RadioButton Content="Single" Margin="2, 5" IsChecked="True" GroupName="Relationship" />
+            <RadioButton Content="Engaged" Margin="2, 5" GroupName="Relationship" />
+            <RadioButton Content="Married" Margin="2, 5" GroupName="Relationship" />
+        </StackPanel>
+        <Button x:Name="Button_0_0" Content="Hit Me ..." Grid.Row="2" Grid.Column="3" />
+    </Grid>
+</Window>

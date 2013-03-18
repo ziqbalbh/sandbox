@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZAFAR-PC8</Machine>
+    <WindowsUser>ZAFAR</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>323E783FB3EE7A267CC21F94EE5A5F834D55385FEAF930E9D89BF55B5823091A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4e62f607-8c13-49ea-84d3-e7c5b7bc6bd0_1.0.0.0_neutral__tm6pdr93r0gp4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4e62f607-8c13-49ea-84d3-e7c5b7bc6bd0_tm6pdr93r0gp4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4e62f607-8c13-49ea-84d3-e7c5b7bc6bd0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ZAFAR</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\HANSVITS\PROJECTS\Sandbox\storeBox\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-08T02:02:41.410</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\HANSVITS\PROJECTS\Sandbox\storeBox\bin\Debug\storeBox.exe">
+      <PackagePath>storeBox.exe</PackagePath>
+      <Modified>2013-03-08T02:04:52.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HANSVITS\PROJECTS\Sandbox\storeBox\bin\Debug\storeBox.pdb">
+      <PackagePath>storeBox.pdb</PackagePath>
+      <Modified>2013-03-08T02:04:52.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HANSVITS\PROJECTS\Sandbox\storeBox\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HANSVITS\PROJECTS\Sandbox\storeBox\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HANSVITS\PROJECTS\Sandbox\storeBox\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HANSVITS\PROJECTS\Sandbox\storeBox\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HANSVITS\PROJECTS\Sandbox\storeBox\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-03-08T01:28:09.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HANSVITS\PROJECTS\Sandbox\storeBox\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-03-08T02:04:40.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HANSVITS\PROJECTS\Sandbox\storeBox\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-03-08T01:37:11.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\HANSVITS\PROJECTS\Sandbox\storeBox\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-03-08T02:02:41.256</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+E:\HANSVITS\PROJECTS\Sandbox\modelBox\bin\Debug\consoleBox.exe
+E:\HANSVITS\PROJECTS\Sandbox\modelBox\bin\Debug\EntityFramework.dll
+E:\HANSVITS\PROJECTS\Sandbox\modelBox\bin\Debug\consoleBox.pdb
+E:\HANSVITS\PROJECTS\Sandbox\modelBox\bin\Debug\EntityFramework.xml
+E:\HANSVITS\PROJECTS\Sandbox\modelBox\obj\Debug\modelBox.modelprojResolveAssemblyReference.cache

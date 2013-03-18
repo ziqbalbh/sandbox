@@ -1,0 +1,4 @@
+E:\HANSVITS\PROJECTS\Sandbox\modelBoxLib\bin\Debug\modelBoxLib.dll
+E:\HANSVITS\PROJECTS\Sandbox\modelBoxLib\bin\Debug\modelBoxLib.pdb
+E:\HANSVITS\PROJECTS\Sandbox\modelBoxLib\obj\Debug\modelBoxLib.dll
+E:\HANSVITS\PROJECTS\Sandbox\modelBoxLib\obj\Debug\modelBoxLib.pdb

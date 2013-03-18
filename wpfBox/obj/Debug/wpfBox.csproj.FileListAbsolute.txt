@@ -1,0 +1,17 @@
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\bin\Debug\wpfBox.exe.config
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\bin\Debug\wpfBox.exe
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\bin\Debug\wpfBox.pdb
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\obj\Debug\wpfBox.csprojResolveAssemblyReference.cache
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\obj\Debug\GridWindow.baml
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\obj\Debug\MainWindow.baml
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\obj\Debug\StackWindow.baml
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\obj\Debug\GridWindow.g.cs
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\obj\Debug\MainWindow.g.cs
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\obj\Debug\StackWindow.g.cs
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\obj\Debug\App.g.cs
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\obj\Debug\wpfBox_MarkupCompile.cache
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\obj\Debug\wpfBox.g.resources
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\obj\Debug\wpfBox.Properties.Resources.resources
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\obj\Debug\wpfBox.csproj.GenerateResource.Cache
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\obj\Debug\wpfBox.exe
+E:\HANSVITS\PROJECTS\Sandbox\wpfBox\obj\Debug\wpfBox.pdb
